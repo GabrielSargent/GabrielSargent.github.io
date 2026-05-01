@@ -16,6 +16,7 @@ Email: [gsargent@unc.edu](mailto:gsargent@unc.edu)
 - Prediction-powered inference
 - Inference in adaptive experiments
 - Evaluation of large language models
+
 ## Publications
 - Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
   *International Conference on Machine Learning (ICML), 2026.*
