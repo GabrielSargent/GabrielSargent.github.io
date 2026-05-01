@@ -29,7 +29,7 @@ author:
   location         :
   employer         :
   uri              :
-  email            : # displayed below without a mailto link — see author-profile.html
+  email            : "gsargent@unc.edu" # displayed below without a mailto link — see author-profile.html
 
   # Academic websites
   academia         :
