@@ -20,5 +20,5 @@ Email: gsargent@unc.edu
 
 ## Publications
 
-- Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, Yufeng Liu.  
+- Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
   *International Conference on Machine Learning (ICML), 2026.*
