@@ -13,6 +13,8 @@ I am interested in **prediction-powered inference**, **adaptive experiments**, a
 
 [CV](/files/cv.pdf)
 
+Email: gsargent@unc.edu
+
 ## Research
 
 - Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, Yufeng Liu.  
