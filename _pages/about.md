@@ -15,4 +15,5 @@ I am interested in **prediction-powered inference**, **adaptive experiments**, a
 
 ## Research
 
-- Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, Yufeng Liu. *International Conference on Machine Learning (ICML), 2026.*
+- Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, Yufeng Liu.  
+  *International Conference on Machine Learning (ICML), 2026.*
