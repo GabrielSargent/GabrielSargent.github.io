@@ -146,14 +146,10 @@
   width: auto;
 
   img {
-    max-width: 150px;
+    max-width: min(300px, 80%);
     border-radius: 4px;
     padding: 5px;
     border: 1px solid var(--global-border-color);
-
-    @include breakpoint($large) {
-      max-width: 350px;
-    }
   }
 }
 
