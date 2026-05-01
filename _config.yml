@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : ""
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Gabriel Sargent"
 description              : &description "Gabriel Sargent's academic portfolio"
 url                      : https://GabrielSargent.github.io
