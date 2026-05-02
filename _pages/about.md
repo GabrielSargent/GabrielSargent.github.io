@@ -14,9 +14,10 @@ Email: [gsargent@unc.edu](mailto:gsargent@unc.edu)
 [CV](/files/cv.pdf)
 
 ## Research Interests
-- Prediction-powered inference
-- Inference in adaptive experiments
+
+- Statistical inference in adaptive experiments
 - Evaluation of large language models
+- Prediction-powered inference
 
 ## Publications
 - Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
