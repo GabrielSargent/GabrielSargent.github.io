@@ -14,10 +14,13 @@ Email: [gsargent@unc.edu](mailto:gsargent@unc.edu)
 [CV](/files/cv.pdf)
 
 ## Research Interests
-
 - Statistical inference in adaptive experiments
 - Evaluation of large language models
 - Prediction-powered inference
+
+## News
+- **August 2026:** Received second place in the YinzOR Poster Competition at Carnegie Mellon University
+- **July 2026:** Presented [*Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits*](/files/PPAI.pdf) at ICML
 
 ## Publications
 - [Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](/files/PPAI.pdf).  
