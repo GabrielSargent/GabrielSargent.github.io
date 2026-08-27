@@ -9,7 +9,7 @@ redirect_from:
 # Gabriel Sargent
 I am a third-year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the University of North Carolina at Chapel Hill. I am fortunate to be advised by Professors [Yufeng Liu](https://sites.google.com/umich.edu/yufengliu/home), [Will Wei Sun](https://web.ics.purdue.edu/~sun244/), and [Zhengwu Zhang](https://zhengwu.github.io/). I received my B.S. in mathematics from the University of Notre Dame.
 
-[CV](/files/cv.pdf)    Email: [gsargent@unc.edu](mailto:gsargent@unc.edu)
+[CV](/files/cv.pdf)          Email: [gsargent@unc.edu](mailto:gsargent@unc.edu)
 
 ## Research Interests
 - Statistical inference in adaptive experiments
