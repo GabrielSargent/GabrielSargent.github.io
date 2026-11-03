@@ -12,9 +12,9 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 [CV](/files/cv.pdf) &nbsp;•&nbsp; [gsargent@unc.edu](mailto:gsargent@unc.edu)
 
 ## Research Interests
-- Statistical inference in adaptive experiments
-- Evaluation of large language models
+- Evaluation of LLMs and AI agents
 - Prediction-powered inference
+- Statistical inference with adaptively collected data
   
 ## News
 - **August 2026:** Received second place in the [YinzOR Poster Competition](https://yinzor.cmuinforms.org/poster_competition/index.html) at Carnegie Mellon University
