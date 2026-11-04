@@ -17,13 +17,24 @@
 {% if page.url == "/" %}
 <!-- Homepage-specific spacing; inline to avoid cached compiled Sass. -->
 <style>
-  .page__content h1 { margin-top: 0; margin-bottom: 0.45em; color: #173b63; }
+  /* Matching blue accents for the site title and profile name. */
+  .masthead__menu-item--lg a,
+  .masthead__menu-item--lg.selected a,
+  .masthead__menu-item--lg.selected a:hover,
+  .sidebar .author__name {
+    color: #205d9e;
+  }
+  .masthead__menu-item--lg.selected a,
+  .masthead__menu-item--lg.selected a:hover {
+    border-bottom-color: #205d9e;
+  }
+  .page__content h1 { margin-top: 0; margin-bottom: 0.45em; color: #205d9e; }
   .page__content h2 {
     margin-top: 1.05em;
     margin-bottom: 0.12em;
     padding-bottom: 0.08em;
-    color: #173b63;
-    border-bottom: 1px solid #8299b1;
+    color: #205d9e;
+    border-bottom: 1px solid #8daac8;
   }
   .page__content h2 + ul,
   .page__content h2 + ol { margin-top: 0; }
