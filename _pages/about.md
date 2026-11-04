@@ -24,3 +24,6 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 - [Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](/files/PPAI.pdf).  
   **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
   *International Conference on Machine Learning (ICML), 2026.*
+
+## Professional Service
+- Reviewer: *Journal of the American Statistical Association (JASA)*
