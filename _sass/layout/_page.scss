@@ -50,9 +50,24 @@
 
 .page__content {
 
+  /* Keep academic homepage sections compact without changing the theme globally. */
+  h2, h3, h4 {
+    margin-top: 1.15em;
+    margin-bottom: 0.35em;
+  }
+
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
     border-bottom: 1px solid var(--global-border-color);
+  }
+
+  ul, ol {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+  }
+
+  li {
+    margin-bottom: 0.25em;
   }
 
   p, li, dl {
@@ -61,7 +76,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.7em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
