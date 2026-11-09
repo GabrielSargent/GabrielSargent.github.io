@@ -127,6 +127,30 @@
   }
 }
 
+/* A slightly larger touch target for the short CV link, with unchanged spacing. */
+.page__content .cv-link {
+  display: inline-block;
+  padding: 0.3em 0.45em;
+  margin: -0.3em -0.45em;
+}
+
+/* Float the Personal-page photo only when the text column is wide enough. */
+.page__content .personal-photo {
+  float: right;
+  width: 250px;
+  max-width: 40%;
+  height: auto;
+  margin: 0 0 1rem 2rem;
+
+  @media screen and (max-width: 700px) {
+    float: none;
+    display: block;
+    width: 250px;
+    max-width: 100%;
+    margin: 0 0 1rem;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
