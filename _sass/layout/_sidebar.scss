@@ -22,13 +22,6 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    // Keep the profile visible without removing it from the two-column layout.
-    // Scroll inside it only on unusually short viewports.
-    position: -webkit-sticky;
-    position: sticky;
-    top: calc(#{$masthead-height} + 1em);
-    max-height: calc(100vh - #{$masthead-height} - 2em);
-    overflow-y: auto;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
