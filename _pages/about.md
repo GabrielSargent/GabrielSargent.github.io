@@ -17,7 +17,7 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 - Statistical inference with adaptively collected data
   
 ## News
-- **November 2026:** New preprint: [Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](/files/PP_Rank.pdf)
+- **November 2026:** New preprint: [Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/pdf/2611.13186)
 - **August 2026:** Received second place in the [YinzOR Poster Competition](https://yinzor.cmuinforms.org/poster_competition/index.html) at Carnegie Mellon University
 - **July 2026:** Presented [*Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits*](/files/PPAI.pdf) at ICML
 
