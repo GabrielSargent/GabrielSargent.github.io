@@ -24,11 +24,11 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 **July 2026:** Presented [*Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits*](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf) at ICML. Our method uses AI predictions to improve statistical inference in settings where data is collected adaptively, like clinical trials and recommendation systems.
 
 ## Publications
-**[Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186)**.  
+- **[Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186)**.  
 **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
 *Preprint, 2026.*
 
-**[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf)**.  
+- **[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf)**.  
 **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
 *International Conference on Machine Learning (ICML), 2026.*
 
