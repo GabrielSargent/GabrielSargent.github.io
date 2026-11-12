@@ -68,6 +68,11 @@
     margin-bottom: 0.6em;
   }
 
+  /* Keep publication bullets while reducing the default list indent. */
+  #publications + ul {
+    padding-left: 1.2em;
+  }
+
   /* Remove the gap directly beneath section dividers. */
   h2 + ul, h2 + ol, h2 + p {
     margin-top: -0.4em;
