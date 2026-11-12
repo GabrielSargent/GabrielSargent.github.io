@@ -30,7 +30,7 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 
 <div style="display: flex; flex-wrap: wrap; column-gap: 1rem; row-gap: 0.15rem; margin-bottom: 1.35rem;">
   <div style="flex: 0 0 6.8rem;">Jul 2026</div>
-  <div style="flex: 1 1 16rem;">Presented <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. Our method uses AI predictions to improve statistical inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</div>
+  <div style="flex: 1 1 16rem;">Presented <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. We introduce a statistical framework that uses AI predictions to improve inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</div>
 </div>
 
 ## Publications
