@@ -17,11 +17,13 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 - Statistical inference with adaptively collected data
   
 ## News
-**November 2026:** New preprint: [Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186). We develop an LLM evaluation framework that combines adaptively collected human feedback with inexpensive LLM-judge feedback to enable more precise, statistically valid model comparisons at lower evaluation cost.
+**November 2026:** New preprint: [Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186)  
+<span style="font-size: 0.92em;">We develop an LLM evaluation framework that combines adaptively collected human feedback with inexpensive LLM-judge feedback to enable more precise, statistically valid model comparisons at lower evaluation cost.</span>
 
 **August 2026:** Received second place in the [YinzOR Poster Competition](https://yinzor.cmuinforms.org/poster_competition/index.html) at Carnegie Mellon University
 
-**July 2026:** Presented [*Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits*](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf) at ICML. Our method uses AI predictions to improve statistical inference in settings where data is collected adaptively, like clinical trials and recommendation systems.
+**July 2026:** Presented [*Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits*](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf) at ICML  
+<span style="font-size: 0.92em;">Our method uses AI predictions to improve statistical inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</span>
 
 ## Publications
 - **[Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186)**.  
