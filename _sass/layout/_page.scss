@@ -49,6 +49,8 @@
 }
 
 .page__content {
+  /* Use the compact News text size across main page content. */
+  font-size: 0.9em;
 
   /* Keep academic homepage sections compact without changing the theme globally. */
   h2, h3, h4 {
