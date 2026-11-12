@@ -66,11 +66,8 @@
   ul, ol {
     margin-top: 0;
     margin-bottom: 0.6em;
-  }
-
-  /* Keep publication bullets while reducing the default list indent. */
-  #publications + ul {
-    padding-left: 1.2em;
+    margin-left: 0;
+    padding-left: 1.1em; /* place markers near the content edge without clipping them */
   }
 
   /* Remove the gap directly beneath section dividers. */
