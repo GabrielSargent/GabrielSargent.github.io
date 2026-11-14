@@ -18,11 +18,13 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
   
 ## News
 
-<div style=" margin-bottom: 1.1em;"><strong>Nov 2026</strong> — New preprint: <a href="https://arxiv.org/abs/2611.13186">Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback</a>. We develop an LLM evaluation framework that combines adaptively collected human feedback with inexpensive LLM-judge feedback to enable more precise, statistically valid model comparisons at lower evaluation cost.</div>
+<ul style="padding-left: 1.25em;">
+<li style="margin-bottom: 0.45em;"><strong>Nov 2026</strong> — New preprint: <a href="https://arxiv.org/abs/2611.13186">Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback</a>. We develop an LLM evaluation framework that combines adaptively collected human feedback with inexpensive LLM-judge feedback to enable more precise, statistically valid model comparisons at lower evaluation cost.</li>
 
-<div style=" margin-bottom: 1.1em;"><strong>Aug 2026</strong> — Received second place in the <a href="https://yinzor.cmuinforms.org/poster_competition/index.html">YinzOR Poster Competition</a> at Carnegie Mellon University.</div>
+<li style="margin-bottom: 0.45em;"><strong>Aug 2026</strong> — Received second place in the <a href="https://yinzor.cmuinforms.org/poster_competition/index.html">YinzOR Poster Competition</a> at Carnegie Mellon University.</li>
 
-<div style=" margin-bottom: 1.1em;"><strong>Jul 2026</strong> — Presented <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. We introduce a statistical framework that uses AI predictions to improve inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</div>
+<li style="margin-bottom: 0.45em;"><strong>Jul 2026</strong> — Presented <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. We introduce a statistical framework that uses AI predictions to improve inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</li>
+</ul>
 
 ## Publications
 - **[Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186)**.  
