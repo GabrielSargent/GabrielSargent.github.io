@@ -1,64 +1,39 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Gabriel Sargent
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Email](mailto:gsargent@unc.edu) · [Website](https://gabrielsargent.github.io/) · [GitHub](https://github.com/GabrielSargent)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **University of North Carolina at Chapel Hill** — Ph.D. student, Statistics and Operations Research, 2024–present.
+- **University of Notre Dame** — B.S., Mathematics, 2024. Honors mathematics program.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Publications and Preprints
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu. “[Prediction-Powered LLM Ranking with Adaptively Collected Human Feedback](https://arxiv.org/abs/2611.13186).” Preprint, 2026. [Paper (PDF)](https://arxiv.org/pdf/2611.13186).
+2. **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu. “[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](https://proceedings.mlr.press/v306/sargent26a.html).” *International Conference on Machine Learning (ICML)*, 2026. [Paper (PDF)](https://proceedings.mlr.press/v306/sargent26a/sargent26a.pdf).
+
+## Honors and Awards
+
+- **Second Place**, [YinzOR Poster Competition](https://yinzor.cmuinforms.org/poster_competition/index.html), Carnegie Mellon University, 2026.
+
+## Research Presentations
+
+- **Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits** — [ICML 2026](https://proceedings.mlr.press/v306/sargent26a.html), poster presentation.
+- **Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits** — ICML 2026 Agentic Uncertainty Workshop.
+
+## Teaching
+
+- **STOR 155**, University of North Carolina at Chapel Hill — Teaching Assistant.
+
+## Professional Service
+
+- Reviewer, *[Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)*.
