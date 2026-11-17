@@ -23,7 +23,7 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 
 <li style="margin-bottom: 0.45em;"><strong>Aug 2026</strong> — Received second place in the <a href="https://yinzor.cmuinforms.org/poster_competition/index.html">YinzOR Poster Competition</a> at Carnegie Mellon University.</li>
 
-<li style="margin-bottom: 0.45em;"><strong>Jul 2026</strong> — Presented <a href="https://proceedings.mlr.press/v306/sargent26a.html"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. We introduce a statistical framework that uses AI predictions to improve inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</li>
+<li style="margin-bottom: 0.45em;"><strong>Jul 2026</strong> — Presented <a href="/files/PPAI.pdf"><em>Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits</em></a> at ICML. We introduce a statistical framework that uses AI predictions to improve inference in settings where data is collected adaptively, like clinical trials and recommendation systems.</li>
 </ul>
 
 ## Publications
@@ -31,7 +31,7 @@ I am a third-year PhD student in the [Department of Statistics and Operations Re
 **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
 *Preprint, 2026.*
 
-- **[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](https://proceedings.mlr.press/v306/sargent26a.html)**.  
+- **[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](/files/PPAI.pdf)**.  
 **Gabriel Sargent**, Will Wei Sun, Zhengwu Zhang, and Yufeng Liu.  
 *International Conference on Machine Learning (ICML), 2026.*
 
